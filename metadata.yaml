@@ -1,0 +1,31 @@
+_repo: Addresses--amp--Papers---Collectanea_36952
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eade, Peter, Sir
+    birthdate: 1825
+    deathdate: 1915
+    gutenberg_agent_id: '38557'
+    url: http://www.gutenberg.org/2009/agents/38557
+description: ''
+gutenberg_issued: '2011-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Speeches, addresses, etc., English'
+- !lcsh 'English essays'
+tableOfContents: On recreation grounds for Norwich -- On temperance and aids to temperance
+  -- On tortoises -- A futher note upon tortoises -- My Christmas garden party --
+  My city garden in "a city of gardens" -- Presidential address to the Norfolk and
+  Norwich Naturalists' Society -- On St. Giles's Church -- On Sir Thomas Browne.
+title: 'Collectanea de Diversis Rebus: Addresses and Papers'
+url: http://www.gutenberg.org/ebooks/36952
